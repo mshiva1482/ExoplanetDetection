@@ -14,3 +14,6 @@ A stacking classifier has been used to create a more robust and effective predic
 
 ### Stacking Classifier Flowchart
 <img src="https://user-images.githubusercontent.com/71997088/235063098-37a8a1c6-c784-4b81-a1e0-1b702d0b8812.png" width="359" height="540" />
+
+### Performance
+<img width="622" alt="perf" src="https://user-images.githubusercontent.com/71997088/235064570-751cbab9-4476-4ae0-ac60-154d4a39eebb.png">
