@@ -9,7 +9,7 @@ The problem lies in the actual detection of exoplanets because they are quite di
 A stacking classifier has been used to create a more robust and effective predictor. Although it can be computationally expensive, it can produce high levels of accuracy. The stack we have chosen in our case is Random Forest classifier, which is also an ensemble learning technique that is essentially a combination of multiple decision tree models, and Gradient Boosting algorithm which is a functional gradient algorithm that, in order to minimise a loss function, repeatedly chooses a function that leads in the direction of a weak hypothesis or negative gradient.
 
 ### Algorithm Flowchart
-<img src="https://user-images.githubusercontent.com/71997088/235063377-496c035f-fa44-487c-99e0-d2b2c7a63b50.png", width = "363", height="540"/>
+<img src="https://user-images.githubusercontent.com/71997088/235063377-496c035f-fa44-487c-99e0-d2b2c7a63b50.png" width="363" height="540" />
 
 
 ### Stacking Classifier Flowchart
